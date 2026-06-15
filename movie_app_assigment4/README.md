@@ -33,7 +33,7 @@ To run this project locally:
 1. Clone the repository to your machine.
 2. Navigate to the project directory: `cd movie_app_assignment4`
 3. Install dependencies: `flutter pub get`
-4. **$$\color{red}{\text{(IMPORTANT)}}$$ Configuration:** Open `lib/services/movie_service.dart` and place your actual OMDb API key in between the '' on line 15.
+4. **$$\color{red}{\text{(IMPORTANT)}}$$ Configuration:** Open `lib/services/movie_service.dart` and place your actual OMDb API key in between the '' on line 15. Remember to save the file before preceeding to step 5.
 5. Launch the application: `flutter run`
 
 A few resources to get you started if this is your first Flutter project:
