@@ -24,7 +24,7 @@
 
 ## Prerequisites
 * Flutter SDK installed
-* Get your API Key for [OMDb API](https://www.omdbapi.com/apikey.aspx) **$$\color{red}{\text{<-- IMPORTANT}}$$** (for security reason I omitted my API key)
+* Get your API Key for [OMDb API](https://www.omdbapi.com/apikey.aspx) **$$\color{red}{\text{<-- IMPORTANT}}$$** (for security reasons I omitted my API key)
     * Just click the link above and enter your email. The API key is free. 
 
 
