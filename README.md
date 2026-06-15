@@ -1,7 +1,7 @@
 # Assignment 4: Remote Data & APIs
 
-Project Name: movie_app_assignment4
-App Name: Popcorn Vault
+**Project Name:** movie_app_assignment4  
+**App Name:** Popcorn Vault
 
 **Popcorn Vault** is a movie discovery application built with Flutter. It allows users to search for movies by franchise or perform custom title searches, view detailed information, and manage theme settings.
 
